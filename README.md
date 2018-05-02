@@ -1,1 +1,1 @@
-# readable-with-redux
+# Readable with redux
